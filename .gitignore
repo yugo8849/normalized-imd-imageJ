@@ -1,0 +1,26 @@
+# Build output
+target/
+*.class
+*.jar
+
+# macOS / Windows / Linux cruft
+.DS_Store
+Thumbs.db
+*~
+.directory
+
+# Editors
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Test scratch
+test/
+tests/
+test_images/

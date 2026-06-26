@@ -80,10 +80,10 @@ change is computed.
 
 ## Installation
 
-1. Download `Normalized_IMD-1.1.0.jar`
-2. Copy it to ImageJ's `plugins/` folder
-3. Also install `Subtract Background Plus` in the same `plugins/` folder
-4. Restart ImageJ/Fiji
+1. Go to the [Releases](../../releases) page and download the latest `.jar` file.
+2. Copy it to ImageJ/Fiji's `plugins/` folder.
+3. Also install [Subtract Background Plus](https://github.com/yugo8849/subtract-background-plus) in the same `plugins/` folder.
+4. Restart ImageJ/Fiji.
 
 The plugin appears in the **Plugins > FRET** menu as **Normalized IMD (dR/R0, dF/F0)**.
 
